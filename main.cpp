@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-
+#include <vector>
 using namespace std;
 
 void swapChar(char* p1, char* p2)
